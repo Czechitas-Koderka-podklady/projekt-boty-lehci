@@ -44,7 +44,7 @@ Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento re
 - v této obtížnosti nemusíš HTML vůbec upravovat - stačí si ho prostudovat, abys věděla jaké prvky/třídy máš stylovat a "jenom" k nim napsat CSS
 
 ### Standardní obtížnost
-- dostupná v [druhém repozitáři](https://github.com/Czechitas-Koderka-podklady/PROJEKT-Boty)
+- dostupná v [druhém repozitáři](https://github.com/Czechitas-Koderka-podklady/projekt-boty)
 - v HTML najdeš pouze obsahové elementy (nadpisy, odstavce, obrázky)
 - sama si do HTML musíš dopsat další strukturu, která je nutná, abys mohla HTML nastylovat podle grafického zadání
 - musíš vymyslet, do jakých prvků obsah zabalíš a jaké třídy jim přidáš
