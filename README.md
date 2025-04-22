@@ -1,6 +1,8 @@
 # Projekt: Boty (lehčí varianta)
 
-Bonusový úkol pro kurz Staň se kóderkou od Czechitas. Tento úkol se neodevzdává a nehodnotí. Vypracuj si ho pro sebe jako trénink kódování CSS. Toto je **lehčí** varianta úkolu, více se dozvíš v sekci obtížnosti úkolu.
+*Cvičný projekt pro kurz Staň se kóderkou od Czechitas.*
+
+Toto je **lehčí** varianta úkolu, více se dozvíš v sekci obtížnosti úkolu.
 
 - [Cíl úkolu](#Cíl-úkolu)
 - [Obtížnosti](#Obtížnosti)
